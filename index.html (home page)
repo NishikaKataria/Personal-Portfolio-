@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>My Portfolio - Home</title>
+</head>
+<body>
+    <header> 
+    <h1>NISHIKA</h1>
+    <h1>GUNGUN</h1>
+     <nav>
+       <a href="about.html">About</a> |
+       <a href="projects.html">Projects</a> |
+       <a href="skills.html">Skills</a> |
+       <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+  <main>
+     <h2>Welcome to My Portfolio</h2>
+     <p>Hello! This is my personal portfolio website.</p>
+     <p>Explore my About, Projects, Skills, and Contact pages from the menu above.</p>
+  </main>
+
+
+</body>
+</html>
